@@ -5,8 +5,7 @@
  Those explained above can be seen in the pictures below.
  ## Examples from the project
  <img src="https://github.com/Diana-Szalai/Project-2/blob/master/img/PiTStop1.JPG?raw=true" width="572" height="356" />
-![Picture1](img/PiTStop2.jpg)
-
+ <img src="https://github.com/Diana-Szalai/Project-2/blob/master/img/PiTStop2.JPG?raw=true" width="572" height="356" />
 ## Table of Contents
 * index.html
 * stylesheet css
