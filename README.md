@@ -1,4 +1,4 @@
-# Project-2# Landing Page Project 
+# Landing Page Project 
 
  Landing Page Project for a community kitchen. This project represents a multi-section landing page, with a dynamically updating navigational menu based on the amount of content that is added to the page.
  Additionally, the section actively being viewed it's different and when a user clicks on a navigation item, it scrolls you to the appropriate section.
