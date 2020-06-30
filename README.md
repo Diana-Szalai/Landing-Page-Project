@@ -6,6 +6,7 @@
  ## Examples from the project
  <img src="https://github.com/Diana-Szalai/Project-2/blob/master/img/PiTStop1.JPG?raw=true" width="572" height="356" />
  <img src="https://github.com/Diana-Szalai/Project-2/blob/master/img/PiTStop2.JPG?raw=true" width="572" height="356" />
+ 
 ## Table of Contents
 * index.html
 * stylesheet css
