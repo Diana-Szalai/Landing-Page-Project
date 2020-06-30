@@ -4,7 +4,7 @@
  Additionally, the section actively being viewed it's different and when a user clicks on a navigation item, it scrolls you to the appropriate section.
  Those explained above can be seen in the pictures below.
  ## Examples from the project
- <img src="https://github.com/Diana-Szalai/Project-2/blob/master/img/PiTStop1.JPG?raw=true" width="426" height="660" />
+ <img src="https://github.com/Diana-Szalai/Project-2/blob/master/img/PiTStop1.JPG?raw=true" width="286" height="178" />
 ![Picture1](img/PiTStop2.jpg)
 
 ## Table of Contents
